@@ -1,0 +1,3 @@
+speedometer3.js
+jetstream.js
+motionmark.js

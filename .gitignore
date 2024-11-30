@@ -1,4 +1,8 @@
+*.csv
+*.png
 .DS_Store
 *.tar.gz
-*.csv
-results/
+browser_profiles*/
+browsertime/
+browsertime-results/
+__pycache__
